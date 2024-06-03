@@ -42,17 +42,17 @@
 - Gain valuable experience in software development best practices and problem-solving.
 - Document my learning curve and reflect on my progress throughout the 100 days.
 
-### Screenshots/Visuals: Pending..... Still Under Development
+### Screenshots/Visuals:
 
-<!--
+<div align="center"><video src="https://github.com/Shahnawazk7944/JForceHiringTask_VotingApp/assets/74444644/abd916a1-80bf-4269-909f-f521ab04f47a" height="400" ></video></br></br></div>
+
 <p align="center">
 <img src="app/src/main/res/drawable/text_field_screenshot.png" width="220" height="400">&nbsp;&nbsp;
 <img src="app/src/main/res/drawable/google_button_login.gif" width="220" height="400" >&nbsp;&nbsp;
 <img src="app/src/main/res/drawable/coil.gif" width="220" height="400" >
 </p>
 
-<div align="center"><video src="https://github.com/Shahnawazk7944/Android_JetPack_Compose_Practice_Projects/assets/74444644/fbd31533-233b-4a57-96d7-9310a8f14d34" height="400" ></video></div>
--->
+
 
 
 
